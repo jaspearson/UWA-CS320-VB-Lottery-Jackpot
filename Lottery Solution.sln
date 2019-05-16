@@ -4,6 +4,12 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Lottery Project", "Lottery Project\Lottery Project.vbproj", "{E053B31C-3E83-4801-9948-A37ECA72530F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{49A21A66-705C-426D-847C-B868DF1A3223}"
+	ProjectSection(SolutionItems) = preProject
+		images\lottery-jackpot.gif = images\lottery-jackpot.gif
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
